@@ -265,10 +265,6 @@ Para proyectos grande la ventaja seria evita un historial largo con muchos commi
 
 ![alt text](X15.png)
 
-![alt text](X16.png)
-
-![alt text](X17.png)
-
 
 ### **Preguntas:**
 
